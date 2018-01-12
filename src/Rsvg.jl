@@ -1,4 +1,4 @@
-
+__precompile__()
 module Rsvg
 
 depsjl = joinpath(dirname(@__FILE__), "..", "deps", "deps.jl")
